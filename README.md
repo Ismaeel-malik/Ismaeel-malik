@@ -9,3 +9,4 @@
 Ismaeel-malik/Ismaeel-malik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Currently I'm Learning through FreeCodeCamp where there's many tutorials, courses  which enables me to start my projects through the website.
