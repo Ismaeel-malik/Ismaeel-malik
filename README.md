@@ -15,3 +15,4 @@ Certificate: AWS Academy Graduate - AWS Academy Cloud Foundations - Completed 20
 
 🎯- My target is to utilise FreeCodeCamp to learn code on a daily basis by creating small websites and completing quizzes 
 + Complete courses which well benefit me plus attaining certificates.
+-🔜 Full Stack Programming for Complete Beginners in Python
