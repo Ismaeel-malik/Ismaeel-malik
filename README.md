@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
 Currently I'm Learning through FreeCodeCamp where there's many tutorials, courses  which enables me to start my projects through the website.
 
 Certificate: AWS Academy Graduate - AWS Academy Cloud Foundations - Completed 20 Hours - Issues on 02/20/2023
+
+🎯- My target is to utilise FreeCodeCamp to learn code on a daily basis by creating small websites and quizzes 
++ Complete courses which well benefit me plus attaining certificates.
